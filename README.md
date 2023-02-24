@@ -1,4 +1,3 @@
 # PokemonApi
-
-#Grabs every pokemon's base stats, and populates a Pandas DataFrame with that data.
- schema = [ id, name, hp, attack, sp-atk, sp-def, speed]
+This Repo will be a daily code for spicy people! 
+Alot of what is here is stuff i learnt from my job! 
